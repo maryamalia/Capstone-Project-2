@@ -6,7 +6,6 @@ Pada awal tahun 2015 ini, Tim Retail Market membutuhkan analisis dari data pelan
 - Bagaimana kepuasan pelanggan dengan produk, pelayanan dan fasilitas yang diberikan oleh perusahaan?
 - Faktor karakteristik dan perilaku pelanggan apa saja yang berhubungan dengan jumlah pembelian produk, sehingga kita perlu mengetahui bagaimana karakteristik pelanggan dan perilaku pelanggan terlebih dahulu.
 <br>
-<br>
 Berdasarkan dari hasil analisis data pelanggan perusahan tahun 2012-2014, maka dapat menjawab pertanyaan Tim Retail Market yaitu:
 - Jumlah pelanggan yang mendaftar setiap bulannya tidak stabil. Bahkan dalam 6 bulan terakhir (Juli 2014-Desember 2014) jauh lebih sedikit dibandingkan jumlah pelanggan yang mendaftar pada bulan-bulan sebelumnya. Rata-rata pelanggan yang mendaftar pada bulan Juli 2014-Desember 2014 sebanyak 20 pelanggan, sedangkan Rata-rata pelanggan yang mendaftar pada bulan Januari 2014-Juni 2014 sebanyak 72 pelanggan.
 - Sebanyak 99.06% pelanggan tidak pernah menyampaikan keluhan. Sehingga dapat disimpulkan bahwa pelanggan puas dengan produk, pelayanan dan fasilitas yang diberikan oleh perusahaan.
