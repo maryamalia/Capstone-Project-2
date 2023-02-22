@@ -1,12 +1,11 @@
 # Capstone-Module-2
 ## Customer Personality Analysis
 
-Pada awal tahun 2015 ini, Tim Retail Market membutuhkan analisis dari data pelanggan tahun 2012-2014, untuk menyusun stategi pemasaran untuk setahun ke depan agar dapat meningkatkan profit perusahaan. Analisis yang diperlukan oleh Tim Retail Market yaitu:
+Perusahaan retail memiliki fungsi untuk menyediakan kebutuhan masyarakat dengan menjual produk sesuai dengan kebutuhan dan minat konsumen. Salah satu faktor keberhasilan perusahaan retail yaitu dengan memiliki strategi yang tepat. Pada awal tahun 2015 ini, Tim Retail Market membutuhkan analisis dari data pelanggan tahun 2012-2014, untuk menyusun stategi pemasaran untuk setahun ke depan agar dapat meningkatkan profit perusahaan. Analisis yang diperlukan oleh Tim Retail Market yaitu:
 
 - Bagaimana trend jumlah pelanggan yang mendaftar? karena Tim Retail Market merasa bahwa jumlah customer selama tiga bulan terakhir menurun, dan untuk mengetahui pastinya perlu melihat data yang ada.
 - Bagaimana kepuasan pelanggan dengan produk, pelayanan dan fasilitas yang diberikan oleh perusahaan?
 - Faktor karakteristik dan perilaku pelanggan apa saja yang berhubungan dengan jumlah pembelian produk, sehingga kita perlu mengetahui bagaimana karakteristik pelanggan dan perilaku pelanggan terlebih dahulu.
-<br>
 <br>
 Berdasarkan dari hasil analisis data pelanggan perusahan tahun 2012-2014, maka dapat menjawab pertanyaan Tim Retail Market yaitu:
 
